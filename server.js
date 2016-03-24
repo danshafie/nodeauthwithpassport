@@ -17,5 +17,5 @@ require('./router')(app)
 const port = process.env.PORT || 3090;
 
 app.listen(port, function(){
-  console.log("i'm going to bang this bitch the fuck out", port);
+  console.log("the jazz, what? The jazz to move that ass. Cause the tribe orginates that feeling of pizzazz", port);
 })
